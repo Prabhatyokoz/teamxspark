@@ -1,0 +1,4 @@
+class txSpark{
+   int no=420;
+   String playerName="Someone Singh";
+   }
