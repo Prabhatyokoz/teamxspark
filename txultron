@@ -1,4 +1,6 @@
 class txSpark{
    int no=420;
    String playerName="Someone Singh";
+   double sallary= 50000.00;
+   int playerNumber=5;
    }
